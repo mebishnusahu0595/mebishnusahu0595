@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff6600,50:ff9900,75:ffcc00,100:00ff88&height=200&section=header&text=Bishnu%20Prasad%20Sahu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
 
 <!-- ANIMATED TYPING -->
-[<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=false&width=700&lines=🔥+Building+AI+that+changes+lives;🚀+Full-Stack+%7C+AI+%7C+Data+Science;🌾+FarmView+AI+%7C+🏥+Sehat+Setu;💻+40%2B+Projects+%26+Counting;⚡+Available+for+Freelance+Now!" alt="Typing SVG" />](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=FF6600&center=true&width=700&lines=Building+AI+that+changes+lives+%F0%9F%94%A5;Full-Stack+%7C+AI+%7C+Data+Science+%F0%9F%9A%80)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=700&lines=Building+AI+that+changes+lives;Full-Stack+%7C+AI+%7C+Data+Science;FarmView+AI+%7C+Sehat+Setu+%7C+KuyaCode;40%2B+Projects+and+Counting;Available+for+Freelance+Now!" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -184,5 +184,5 @@ print(me.hire_me())
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,25:ffcc00,50:ff9900,75:ff6600,100:ff0000&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐+Star+my+repos!;Let's+build+something+amazing+together+🚀" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Star+my+repos!;Lets+build+something+amazing+together!" alt="Typing SVG" /></a>
 </div>
