@@ -1,30 +1,20 @@
+<!-- SELF-HOSTED ANIMATED HEADER - stored in your repo, always works -->
 <div align="center">
-
-<!-- RELIABLE HEADER - capsule-render is the most trusted -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff0000,50:ff6600,100:ffcc00&height=200&section=header&text=Bishnu%20Prasad%20Sahu&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20India&descAlignY=68&descSize=18" width="100%"/>
-
-<!-- TYPING SVG - herokuapp is reliable -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=700&lines=Building+AI+that+changes+lives+%F0%9F%94%A5;Full-Stack+%7C+AI+%7C+Data+Science+%F0%9F%9A%80;FarmView+AI+%7C+Sehat+Setu+%7C+KuyaCode;40%2B+Projects+and+Counting;Available+for+Freelance+Now!)](https://github.com/mebishnusahu0595)
+<img src="./header.svg" width="100%" alt="Bishnu Prasad Sahu"/>
 
 <br/>
 
+<!-- SOCIAL BADGES - shields.io always works -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mebishnusahu05)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebishnusahu0595@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mebishnusahu0595)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6600.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mebishnusahu0595&label=Profile+Views&color=ff6600&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mebishnusahu0595?label=Followers&style=for-the-badge&color=ff6600)](https://github.com/mebishnusahu0595)
 
-</div>
-
----
-
-<!-- PACMAN ANIMATION - works without any workflow! -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89f5b5ff5eb1df6b0081cc/images/marquee.svg" width="100%"/>
 </div>
 
 ---
@@ -63,14 +53,6 @@ print(me.hire_me())
 ---
 
 ## 🚀 Featured Projects
-
-<div align="center">
-<a href="https://github.com/mebishnusahu0595/SamarthyaBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mebishnusahu0595&repo=SamarthyaBot&theme=radical&border_color=ff6600&title_color=ff6600&icon_color=ffcc00&bg_color=0d1117" />
-</a>
-</div>
-
-<br/>
 
 | 🔥 | Project | What It Does | Stack |
 |:--:|---------|-------------|-------|
@@ -131,17 +113,8 @@ print(me.hire_me())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mebishnusahu0595&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&title_color=ff6600&icon_color=ffcc00&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebishnusahu0595&layout=compact&theme=radical&hide_border=true&title_color=ff6600&text_color=ffffff&bg_color=0d1117" alt="Top Languages"/>
-
-<br/>
-
+<!-- streak-stats.demolab.com is confirmed working for you -->
 <img src="https://streak-stats.demolab.com?user=mebishnusahu0595&theme=radical&hide_border=true&ring=ff6600&fire=ff3300&currStreakLabel=ffcc00&background=0d1117" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=mebishnusahu0595&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies"/>
 
 </div>
 
@@ -171,11 +144,4 @@ print(me.hire_me())
 
 **Available for:** `AI Integration` • `Full-Stack Dev` • `Data Analytics` • `HealthTech` • `AgriTech`
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Star+my+repos!;Lets+build+something+amazing+together!)](https://github.com/mebishnusahu0595)
-
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffcc00,50:ff6600,100:ff0000&height=100&section=footer" width="100%"/>
