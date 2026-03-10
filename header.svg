@@ -1,0 +1,99 @@
+<svg width="900" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="fire" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0000"/>
+      <stop offset="40%" style="stop-color:#ff6600"/>
+      <stop offset="70%" style="stop-color:#ffcc00"/>
+      <stop offset="100%" style="stop-color:#00ff88"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .name {
+        font-family: 'Courier New', monospace;
+        font-size: 52px;
+        font-weight: bold;
+        fill: url(#fire);
+        filter: url(#glow);
+        animation: pulse 2s ease-in-out infinite alternate;
+      }
+      .role {
+        font-family: 'Courier New', monospace;
+        font-size: 20px;
+        fill: #ff6600;
+        opacity: 0;
+        animation: fadeIn 1s ease 0.8s forwards;
+      }
+      .cursor {
+        fill: #ff6600;
+        animation: blink 1s step-end infinite;
+      }
+      .particle {
+        fill: #ff6600;
+        animation: float 3s ease-in-out infinite;
+      }
+      .particle2 { animation-delay: 0.5s; fill: #ffcc00; }
+      .particle3 { animation-delay: 1s; fill: #ff3300; }
+      .particle4 { animation-delay: 1.5s; fill: #ff9900; }
+      .particle5 { animation-delay: 2s; fill: #ffcc00; }
+      .line { stroke: url(#fire); stroke-width: 2; opacity: 0.4; animation: expandLine 1.5s ease forwards; }
+      @keyframes pulse {
+        from { opacity: 0.85; }
+        to { opacity: 1; }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); opacity: 0.8; }
+        50% { transform: translateY(-15px); opacity: 1; }
+      }
+      @keyframes expandLine {
+        from { stroke-dashoffset: 900; stroke-dasharray: 900; }
+        to { stroke-dashoffset: 0; stroke-dasharray: 900; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="200" fill="url(#bg)" rx="12"/>
+
+  <!-- Animated border line top -->
+  <line x1="0" y1="3" x2="900" y2="3" class="line"/>
+  <!-- Animated border line bottom -->
+  <line x1="0" y1="197" x2="900" y2="197" class="line" style="animation-delay:0.3s"/>
+
+  <!-- Floating particles -->
+  <circle cx="50" cy="40" r="3" class="particle"/>
+  <circle cx="150" cy="25" r="2" class="particle particle2"/>
+  <circle cx="800" cy="35" r="3" class="particle particle3"/>
+  <circle cx="700" cy="170" r="2" class="particle particle4"/>
+  <circle cx="100" cy="160" r="3" class="particle particle5"/>
+  <circle cx="850" cy="150" r="2" class="particle" style="animation-delay:0.8s; fill:#00ff88"/>
+  <circle cx="450" cy="20" r="2" class="particle particle2"/>
+  <circle cx="600" cy="175" r="3" class="particle particle3"/>
+
+  <!-- Main Name -->
+  <text x="450" y="110" text-anchor="middle" class="name">Bishnu Prasad Sahu</text>
+
+  <!-- Cursor after name -->
+  <text x="762" y="110" class="cursor" font-family="Courier New" font-size="52px" font-weight="bold">|</text>
+
+  <!-- Role text -->
+  <text x="450" y="150" text-anchor="middle" class="role">⚡ AI &amp; Full-Stack Developer &nbsp;|&nbsp; India 🇮🇳 &nbsp;|&nbsp; Open to Freelance</text>
+
+  <!-- Corner decorations -->
+  <text x="20" y="30" font-family="Courier New" font-size="14px" fill="#ff6600" opacity="0.6">&lt;dev&gt;</text>
+  <text x="840" y="190" font-family="Courier New" font-size="14px" fill="#ff6600" opacity="0.6">&lt;/dev&gt;</text>
+</svg>
