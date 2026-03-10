@@ -1,34 +1,23 @@
 <div align="center">
 
-<!-- FIRE HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,25:ff6600,50:ff9900,75:ffcc00,100:00ff88&height=200&section=header&text=Bishnu%20Prasad%20Sahu&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=22&animation=fadeIn" width="100%"/>
+<!-- FIRE HEADER BANNER - Using svg-banners which is more reliable -->
+<img src="https://svg-banners.vercel.app/api?type=glitch&text1=Bishnu%20Prasad%20Sahu&width=900&height=150" width="100%"/>
 
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=700&lines=Building+AI+that+changes+lives;Full-Stack+%7C+AI+%7C+Data+Science;FarmView+AI+%7C+Sehat+Setu+%7C+KuyaCode;40%2B+Projects+and+Counting;Available+for+Freelance+Now!" alt="Typing SVG" /></a>
+<!-- ANIMATED TYPING - Using DenverCoder1's reliable service -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=FF6600&center=true&vCenter=true&width=700&lines=Building+AI+that+changes+lives;Full-Stack+%7C+AI+%7C+Data+Science;FarmView+AI+%7C+Sehat+Setu+%7C+KuyaCode;40%2B+Projects+and+Counting;Available+for+Freelance+Now!)](https://github.com/mebishnusahu0595)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mebishnusahu05)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebishnusahu0595@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mebishnusahu0595)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mebishnusahu0595&label=Profile+Views&color=ff6600&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/mebishnusahu0595?label=Followers&style=for-the-badge&color=ff6600)](https://github.com/mebishnusahu0595)
 
-</div>
-
----
-
-<!-- ANIMATED SNAKE -->
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mebishnusahu0595/mebishnusahu0595/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mebishnusahu0595/mebishnusahu0595/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mebishnusahu0595/mebishnusahu0595/output/github-contribution-grid-snake.svg">
-</picture>
 </div>
 
 ---
@@ -52,16 +41,16 @@ class BishnuPrasadSahu:
             "Realtime"   : ["WebSockets", "REST APIs", "Real-time Pipelines"],
         }
 
-        self.building_now = "FarmView AI 🌾 — Satellite crop monitoring"
+        self.building_now = "FarmView AI - Satellite crop monitoring"
         self.superpower   = "Turning complex problems into working products"
         self.contact      = "mebishnusahu0595@gmail.com"
 
     def hire_me(self):
-        return "Let's build something incredible together 🚀"
+        return "Let's build something incredible together!"
 
 me = BishnuPrasadSahu()
 print(me.hire_me())
-# Output: Let's build something incredible together 🚀
+# Output: Let's build something incredible together!
 ```
 
 ---
@@ -156,8 +145,8 @@ print(me.hire_me())
 
 ```
 🌾  FarmView AI     ████████████████░░░░   80% — Satellite AI for farmers
-🏥  Sehat Setu      ███████████████░░░░░░   75% — AI healthcare platform  
-🤖  SamarthyaBot   █████████████████████  100% — Launched 🚀
+🏥  Sehat Setu      ███████████████░░░░░░   75% — AI healthcare platform
+🤖  SamarthyaBot   █████████████████████  100% — Launched!
 💻  KuyaCode        ████████████░░░░░░░░░   60% — Browser IDE
 📊  Kuya Cloud      ██████████████░░░░░░░   70% — Business analytics AI
 ```
@@ -170,19 +159,14 @@ print(me.hire_me())
 
 > ### *"I don't just write code — I build products that solve real problems."* 🔥
 
-[![Hire Me](https://img.shields.io/badge/💌%20HIRE%20ME-ff6600?style=for-the-badge)](mailto:mebishnusahu0595@gmail.com)
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-000000?style=for-the-badge)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/🤝%20CONNECT-0077B5?style=for-the-badge)](https://linkedin.com/in/mebishnusahu05)
+[![Hire Me](https://img.shields.io/badge/HIRE_ME-ff6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebishnusahu0595@gmail.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mebishnusahu05)
 
 **Available for:** `AI Integration` • `Full-Stack Dev` • `Data Analytics` • `HealthTech` • `AgriTech`
 
-</div>
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Star+my+repos!;Lets+build+something+amazing+together!)](https://github.com/mebishnusahu0595)
 
-<!-- FIRE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,25:ffcc00,50:ff9900,75:ff6600,100:ff0000&height=120&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=14&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+Star+my+repos!;Lets+build+something+amazing+together!" alt="Typing SVG" /></a>
 </div>
