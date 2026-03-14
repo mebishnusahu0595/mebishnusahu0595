@@ -1,25 +1,25 @@
-<!-- SELF-HOSTED ANIMATED HEADER - stored in your repo, always works -->
 <div align="center">
-<img src="./header.svg" width="100%" alt="Bishnu Prasad Sahu"/>
 
-<br/>
+# ⚡ Bishnu Prasad Sahu
 
-<!-- SOCIAL BADGES - shields.io always works -->
+### AI Engineer · Full-Stack Developer · Builder
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mebishnusahu05)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebishnusahu0595@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mebishnusahu0595)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6600.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mebishnusahu0595&label=Profile+Views&color=ff6600&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/mebishnusahu0595?label=Followers&style=for-the-badge&color=ff6600)](https://github.com/mebishnusahu0595)
+
+---
+
+*"I don't just write code — I build products that solve real problems."*
 
 </div>
 
 ---
 
-## 🔥 About Me
+## 👨‍💻 About Me
 
 ```python
 class BishnuPrasadSahu:
@@ -54,22 +54,20 @@ print(me.hire_me())
 
 ## 🚀 Featured Projects
 
-| 🔥 | Project | What It Does | Stack |
-|:--:|---------|-------------|-------|
-| 🌾 | **[FarmView AI](https://github.com/mebishnusahu0595)** | Satellite-integrated AI for crop monitoring & farm productivity | `Python` `AI` `Satellite API` `ML` |
-| 🏥 | **[Sehat Setu](https://github.com/mebishnusahu0595)** | AI-powered healthcare platform for medical insights & digital health | `Python` `Flask` `NLP` `AI` |
-| 💻 | **[KuyaCode](https://github.com/mebishnusahu0595)** | Browser-based IDE — write, edit & run code from anywhere | `Node.js` `WebSockets` `JS` |
-| 📊 | **[Kuya Cloud](https://github.com/mebishnusahu0595)** | Upload business data → AI dashboards & decision insights | `Python` `Streamlit` `ML` |
-| 🤖 | **[SamarthyaBot](https://github.com/mebishnusahu0595/SamarthyaBot)** | Multi-LLM AI agent with OS, web & full automation capabilities | `JS` `LLM APIs` `Automation` |
-| 🏨 | **[UrbanHost](https://github.com/mebishnusahu0595)** | Full-stack property rental platform — list, discover & book rooms | `PHP` `MySQL` `JS` `CSS` |
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🌾 **[FarmView AI](https://github.com/mebishnusahu0595)** | Satellite-integrated AI for crop monitoring & farm productivity | `Python` `ML` `Satellite API` |
+| 🏥 **[Sehat Setu](https://github.com/mebishnusahu0595)** | AI-powered healthcare platform for medical insights | `Python` `Flask` `NLP` |
+| 💻 **[KuyaCode](https://github.com/mebishnusahu0595)** | Browser-based IDE — write, edit & run code from anywhere | `Node.js` `WebSockets` `JS` |
+| 📊 **[Kuya Cloud](https://github.com/mebishnusahu0595)** | Upload business data → AI dashboards & decision insights | `Python` `Streamlit` `ML` |
+| 🤖 **[SamarthyaBot](https://github.com/mebishnusahu0595/SamarthyaBot)** | Multi-LLM AI agent with OS, web & full automation | `JS` `LLM APIs` `Automation` |
+| 🏨 **[UrbanHost](https://github.com/mebishnusahu0595)** | Full-stack property rental platform | `PHP` `MySQL` `JS` |
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-**⚡ Languages**
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -78,7 +76,7 @@ print(me.hire_me())
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🤖 AI & Machine Learning**
+**AI & Machine Learning**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -87,7 +85,7 @@ print(me.hire_me())
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**🚀 Frameworks & Backend**
+**Frameworks & Backend**
 
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -96,7 +94,7 @@ print(me.hire_me())
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**🗄️ Databases & Cloud**
+**Databases & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -105,16 +103,15 @@ print(me.hire_me())
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-</div>
-
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- streak-stats.demolab.com is confirmed working for you -->
-<img src="https://streak-stats.demolab.com?user=mebishnusahu0595&theme=radical&hide_border=true&ring=ff6600&fire=ff3300&currStreakLabel=ffcc00&background=0d1117" alt="GitHub Streak"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mebishnusahu0595&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6600&icon_color=ff6600&text_color=ffffff)](https://github.com/mebishnusahu0595)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebishnusahu0595&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6600&text_color=ffffff)](https://github.com/mebishnusahu0595)
 
 </div>
 
@@ -125,7 +122,7 @@ print(me.hire_me())
 ```
 🌾  FarmView AI     ████████████████░░░░   80% — Satellite AI for farmers
 🏥  Sehat Setu      ███████████████░░░░░░   75% — AI healthcare platform
-🤖  SamarthyaBot   █████████████████████  100% — Launched!
+🤖  SamarthyaBot   █████████████████████  100% — Launched! 🚀
 💻  KuyaCode        ████████████░░░░░░░░░   60% — Browser IDE
 📊  Kuya Cloud      ██████████████░░░░░░░   70% — Business analytics AI
 ```
@@ -135,8 +132,6 @@ print(me.hire_me())
 ## 💼 Let's Work Together
 
 <div align="center">
-
-> ### *"I don't just write code — I build products that solve real problems."* 🔥
 
 [![Hire Me](https://img.shields.io/badge/HIRE_ME-ff6600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebishnusahu0595@gmail.com)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
