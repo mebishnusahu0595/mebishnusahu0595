@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Bishnu Prasad Sahu
+#  Bishnu Prasad Sahu
 
 ### AI Engineer · Full-Stack Developer · Builder
 
@@ -105,27 +105,7 @@ print(me.hire_me())
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mebishnusahu0595&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6600&icon_color=ff6600&text_color=ffffff)](https://github.com/mebishnusahu0595)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mebishnusahu0595&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6600&text_color=ffffff)](https://github.com/mebishnusahu0595)
-
-</div>
-
----
-
-## 🎯 Current Build Status
-
-```
-🌾  FarmView AI     ████████████████░░░░   80% — Satellite AI for farmers
-🏥  Sehat Setu      ███████████████░░░░░░   75% — AI healthcare platform
-🤖  SamarthyaBot   █████████████████████  100% — Launched! 🚀
-💻  KuyaCode        ████████████░░░░░░░░░   60% — Browser IDE
-📊  Kuya Cloud      ██████████████░░░░░░░   70% — Business analytics AI
-```
 
 ---
 
