@@ -52,18 +52,6 @@ print(me.hire_me())
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🌾 **[FarmView AI](https://github.com/mebishnusahu0595)** | Satellite-integrated AI for crop monitoring & farm productivity | `Python` `ML` `Satellite API` |
-| 🏥 **[Sehat Setu](https://github.com/mebishnusahu0595)** | AI-powered healthcare platform for medical insights | `Python` `Flask` `NLP` |
-| 💻 **[KuyaCode](https://github.com/mebishnusahu0595)** | Browser-based IDE — write, edit & run code from anywhere | `Node.js` `WebSockets` `JS` |
-| 📊 **[Kuya Cloud](https://github.com/mebishnusahu0595)** | Upload business data → AI dashboards & decision insights | `Python` `Streamlit` `ML` |
-| 🤖 **[SamarthyaBot](https://github.com/mebishnusahu0595/SamarthyaBot)** | Multi-LLM AI agent with OS, web & full automation | `JS` `LLM APIs` `Automation` |
-| 🏨 **[UrbanHost](https://github.com/mebishnusahu0595)** | Full-stack property rental platform | `PHP` `MySQL` `JS` |
-
----
 
 ## 🛠️ Tech Stack
 
