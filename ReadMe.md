@@ -5,7 +5,7 @@
 ### AI Engineer · Full-Stack Developer · Builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mebishnusahu05)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebishnusahu0595@gmail.com)
+[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@bishnu.pro)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mebishnusahu0595)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF6600.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://bishnusahu.netlify.app/)
 
@@ -14,44 +14,6 @@
 ---
 
 *"I don't just write code — I build products that solve real problems."*
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```python
-class BishnuPrasadSahu:
-    def __init__(self):
-        self.name       = "Bishnu Prasad Sahu"
-        self.role       = "AI & Full-Stack Developer"
-        self.location   = "India 🇮🇳"
-        self.available  = True  # Open for freelance!
-
-        self.skills = {
-            "AI/ML"      : ["TensorFlow", "PyTorch", "OpenCV", "NLP", "LLMs"],
-            "Backend"    : ["Python", "Node.js", "Flask", "FastAPI", "PHP"],
-            "Frontend"   : ["React", "JavaScript", "TailwindCSS", "Three.js"],
-            "Database"   : ["MySQL", "MongoDB", "Firebase", "SQL Server"],
-            "Cloud"      : ["AWS", "Google Cloud", "Azure", "Firebase"],
-            "Realtime"   : ["WebSockets", "REST APIs", "Real-time Pipelines"],
-        }
-
-        self.building_now = "FarmView AI - Satellite crop monitoring"
-        self.superpower   = "Turning complex problems into working products"
-        self.contact      = "mebishnusahu0595@gmail.com"
-
-    def hire_me(self):
-        return "Let's build something incredible together!"
-
-me = BishnuPrasadSahu()
-print(me.hire_me())
-# Output: Let's build something incredible together!
-```
-
----
-
 
 ## 🛠️ Tech Stack
 
