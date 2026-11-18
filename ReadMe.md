@@ -1,6 +1,6 @@
 # Bishnu Prasad Sahu
 
-**Full-Stack Systems Architect & Mobile Engineer**  
+**Full-Stack & Android Developer**  
 Bhilai, Chhattisgarh, India · [bishnu.pro](https://bishnu.pro) · [contact@bishnu.pro](mailto:contact@bishnu.pro) · [LinkedIn](https://linkedin.com/in/mebishnusahu05) · [GitHub](https://github.com/mebishnusahu0595)
 
 ---
@@ -9,9 +9,9 @@ Bhilai, Chhattisgarh, India · [bishnu.pro](https://bishnu.pro) · [contact@bish
 
 I am a full-stack engineer and mobile developer with 2+ years of production experience building distributed backends, mobile application suites, and computer vision systems. 
 
-- **Production Track Record:** Shipped 12+ Android APKs and architected 20+ live platforms serving real businesses and customers.
-- **US Copyright Registrations:** 9 commercial software architectures formally registered with the US Copyright Office.
-- **Open Source:** Contributor to `supabase-py` (fixed a critical storage client URL bug and wrote 12+ integration tests).
+- **Production Track Record:** Shipped 12+ Android apps (3 on Google Play) and 25+ live web platforms serving real businesses and customers.
+- **US Copyright Registrations:** 9 of the commercial platforms I work on are registered with the US Copyright Office.
+- **Developer Tools:** Published [SamarthyaBot](https://www.npmjs.com/package/samarthya-bot) on npm and built [Ember](https://github.com/mebishnusahu0595/Ember---The-ServerLess-Platform), a serverless runtime on Firecracker microVMs in Go.
 - **Competitions & Research:** Winner of RIFT Hackathon Bangalore (Money Muling Graph Detector), 2nd place at AVISHKAR 2025 (FAMS AI Medical Assistant), and published research preprint on Zenodo.
 
 ---
@@ -42,9 +42,9 @@ Comprehensive software suite automating daily petrol pump operations across 4 mo
 
 #### 2. Vaniki Crop Science — Agrochemical Platform & StaffTrack
 Sole developer architecting the complete agrochemical e-commerce ecosystem in a TypeScript Turborepo, serving 50+ active dealers:
-- **Mobile Fleet (6 Android APKs):** Customer shopping app, Vaniki Crop Partners dealer ordering app, StaffTrack field workforce GPS tracking APK, agronomist field task app, territory lead manager, and logistics QA.
+- **Mobile Fleet (6 Android apps):** Customer app (Google Play), Vaniki Crop Partners dealer app and its Play Store build, dealer staff app, field staff app, and super-admin staff app.
 - **Web Layer (3 Portals):** Superadmin command portal, B2B dealer order approval web, and warehouse inventory management.
-- **Backend & Integrations:** Node.js/Express REST APIs, Redis/BullMQ task queues, Razorpay payment flows, and automated two-way XML sync with Tally ERP.
+- **Backend & Integrations:** Node.js/Express REST APIs, Redis/BullMQ task queues, Razorpay payments, and a Tally ERP agent that creates GST sales bills over Tally's XML API when an order is approved and sends the bill number back to the apps.
 
 ```text
   [Turborepo TypeScript Monorepo]
@@ -98,22 +98,22 @@ Platforms architected, developed, and maintained for Zexton Software Solutions, 
 | **Zexton E-Blast Campaign Engine** | [eblastportal.zexton.com](https://eblastportal.zexton.com) | Node.js, Persistent JSON FileStore | High-Volume Email Delivery & Analytics | **TX-9-107-302** (Registered) |
 | **Zexton Enterprise Solutions** | [zexton.com](https://zexton.com) | Node.js, Express, MongoDB | Enterprise Client & Architecture Portal | **TX-8-755-312** (Registered) |
 | **TuneInPrayer Community** | [tuneinprayer.com](https://tuneinprayer.com) | Node.js, Express, MongoDB | Faith Community & Prayer Platform | **SR-771-420** (Registered) |
-| **BbNTour Hospitality (StayNTour)** | [bbntour.com](https://bbntour.com) | Node.js, Express, MongoDB | Hospitality & Short-Term Property PMS | PENDING-BBN-2026-01 |
+| **BbNTour Hospitality (StayNTour)** | [bbntour.com](https://bbntour.com) | Node.js, Express, MongoDB | Hospitality & Short-Term Property PMS | Pending |
 | **Biomed Asset / CMS Platform** | [biomedasset.com](https://biomedasset.com) | React, Node.js, MongoDB | Clinical Equipment & Biomedical Asset CMS | In Preparation |
-| **CMercial B2B Directory** | [cmercial.com](https://cmercial.com) | React, Node.js, MongoDB | Enterprise B2B Directory & Commercial Market | PENDING-CMER-2026 |
-| **Optavise Insurance Services** | [optavise.net](https://optavise.net) | Next.js, TypeScript, MongoDB | Insurance Comparison for 35+ US Carriers | PENDING-OPTA-2026 |
+| **CMercial B2B Directory** | [cmercial.com](https://cmercial.com) | React, Node.js, MongoDB | Enterprise B2B Directory & Commercial Market | Pending |
+| **Optavise Insurance Services** | [optavise.net](https://optavise.net) | Next.js, TypeScript, MongoDB | Insurance Comparison for 35+ US Carriers | Pending |
 | **PressPlay Media Platform** | [pressplay1.com](https://pressplay1.com) | Node.js, Express, MongoDB | Video Streaming & Media Pipeline | In Preparation |
 | **SCM Supply Chain Management** | [scm.cmslinc.com](https://scm.cmslinc.com) | Node.js Microservices, MongoDB | Logistics & Supply Chain Coordination | In Preparation |
 | **Starbounds Job Board** | [starbounds.com](http://starbounds.com) | Microsoft IIS, MS SQL Server | Enterprise Talent Board & Candidate Portal | In Preparation |
-| **Kea By The Pool Restaurant POS** | [keabythepool.com](https://keabythepool.com) | React, Node.js, Socket.IO, MongoDB | Restaurant POS, Table Floorplans & KOT Routing | Live Production POS |
-| **TheMark Hotel POS** | [themark.in](https://themark.in) | React, Node.js, Express, MongoDB | Hotel Room Reservation & Guest PMS | Live Production PMS |
+| **Kea By The Pool Restaurant POS** | [keabythepool.com](https://keabythepool.com) | React, Node.js, Socket.IO, MongoDB | Restaurant POS, Cabana Reservations & KOT Routing | Live Production POS |
+| **TheMark Hotel POS** | [themarkclubandresorts.in](https://themarkclubandresorts.in) | React, Node.js, Express, MongoDB | Hotel PMS: Reservations, Folios, Housekeeping & GST | Live Production PMS |
 
 ---
 
 ### Honors & Research
 
 - **Winner [1st Place] — RIFT Hackathon, Bangalore**  
-  *Money Muling Detector:* Financial fraud engine combining a custom Red-Black Tree and Decision Tree at O(N log N) time complexity to detect money muling rings across 10,000+ live transactions.
+  *Money Muling Detector:* Financial fraud engine combining a custom Red-Black Tree and Decision Tree at O(N log N) time complexity to detect money muling rings across 10,000+ transactions.
 - **Silver [2nd Place] — AVISHKAR 2025 (80+ Teams)**  
   *FAMS AI Medical Assistant:* Real-time diagnostic assistant combining computer vision facial distress detection with voice conversational AI and LLM reasoning.
 - **Finalist — HackOmania 2025**  
@@ -128,21 +128,18 @@ Platforms architected, developed, and maintained for Zexton Software Solutions, 
 
 - **Vaniki Crop Science** — Full Stack & Android Developer *(May 2026 – Present)*
   - Architected the company's entire agrochemical mobile and web platform in a TypeScript Turborepo (6 Android APKs + 3 React web portals).
-  - Built StaffTrack: real-time GPS workforce tracking APK with automated geofencing.
-  - Automated Tally ERP XML accounting synchronization via Node.js microservices.
+  - Built StaffTrack: field staff app with background GPS and battery tracking, geofenced attendance and payroll.
+  - Built a Node.js agent that creates GST sales bills in Tally ERP (XML API) when orders are approved.
 - **Zexton / Centralized Medical Solutions / ONCorg** — Software Engineer & Systems Architect *(Jun 2024 – Present)*
-  - Architected 17+ commercial platforms, securing 9 US Copyright Office registrations.
+  - Built and maintain 17+ commercial platforms, 9 of them registered with the US Copyright Office.
   - Engineered Drevo Wheels car/bike rental booking engine and Android APKs on Google Play.
   - Built Optavise insurance aggregator comparing policies across 35+ national carriers.
 - **Indraprastha Petroleum** — Lead Systems Architect & Developer *(2026)*
   - Built full petrol pump automation software: 4 mobile Android APKs + 3 web dashboards.
   - Automated fuel dispenser nozzle metering, underground tank dip tracking, and daily cash reconciliation.
 - **Kea By The Pool & TheMark Hotel** — Full Stack POS Engineer *(2026)*
-  - Built active restaurant POS for Kea By The Pool (table floorplans, waiter orders, KOT routing).
-  - Built TheMark Hotel PMS (room reservations, folios, check-in/out).
-- **Supabase** — Open Source Contributor *(Jan 2026 – Present)*
-  - Fixed a critical storage client URL parsing bug in `supabase-py`.
-  - Authored 12+ integration tests covering edge cases across synchronous and asynchronous clients.
+  - Built the production POS for Kea By The Pool (table orders over Socket.IO, KOT to thermal printers, cabana reservations).
+  - Built TheMark Hotel PMS (reservations, check-in/out, folios and billing, housekeeping, GST reports).
 
 ---
 
@@ -159,7 +156,7 @@ Platforms architected, developed, and maintained for Zexton Software Solutions, 
 
 ### Get In Touch
 
-I am open to full-time engineering roles (SDE-1 / Systems Architect / Mobile / Backend).
+I am open to full-time roles in full-stack, backend, mobile and developer relations (SDE-1).
 
 - **Website:** [https://bishnu.pro](https://bishnu.pro)
 - **Email:** [contact@bishnu.pro](mailto:contact@bishnu.pro)
