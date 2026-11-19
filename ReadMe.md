@@ -106,7 +106,7 @@ Platforms architected, developed, and maintained for Zexton Software Solutions, 
 | **SCM Supply Chain Management** | [scm.cmslinc.com](https://scm.cmslinc.com) | Node.js Microservices, MongoDB | Logistics & Supply Chain Coordination | In Preparation |
 | **Starbounds Job Board** | [starbounds.com](http://starbounds.com) | Microsoft IIS, MS SQL Server | Enterprise Talent Board & Candidate Portal | In Preparation |
 | **Kea By The Pool Restaurant POS** | [keabythepool.com](https://keabythepool.com) | React, Node.js, Socket.IO, MongoDB | Restaurant POS, Cabana Reservations & KOT Routing | Live Production POS |
-| **TheMark Hotel POS** | [themarkclubandresorts.in](https://themark.keabythepool.com) | React, Node.js, Express, MongoDB | Hotel PMS: Reservations, Folios, Housekeeping & GST | Live Production PMS |
+| **TheMark Hotel POS** | [themark.keabythepool.com](https://themark.keabythepool.com) | React, Node.js, Express, MongoDB | Hotel PMS: Reservations, Folios, Housekeeping & GST | Live Production PMS |
 
 ---
 
